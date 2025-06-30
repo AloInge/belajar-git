@@ -3,3 +3,6 @@ This analysis file is created by
 Name : Inge Pangesti 
 Favorite Programming Language : Python
 Location : Serang 
+
+Email: inge.pangesti.1991@gmail.com
+Edited from Github Web
